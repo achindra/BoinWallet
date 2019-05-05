@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{DCF5E38B-15C7-4C5C-AFE7-C3A0585C8882}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BoinWallet/Main.cs">
+    <Files>
+      <File FileName="BoinWallet/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="BoinWallet/Main.cs" Line="16" Column="59" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BoinWallet PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8AC1497B-B145-49F4-A167-27EAEF5BB5F2">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.BoinWallet>
+</Properties>
